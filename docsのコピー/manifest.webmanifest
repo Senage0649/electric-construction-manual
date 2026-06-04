@@ -1,0 +1,9 @@
+{
+  "name": "電気施工管理 施工図教材",
+  "short_name": "施工図教材",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#25313b",
+  "icons": []
+}
